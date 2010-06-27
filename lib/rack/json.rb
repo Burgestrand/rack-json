@@ -1,5 +1,3 @@
-require 'json'
-
 module Rack
   class JSON
     def initialize(app)
